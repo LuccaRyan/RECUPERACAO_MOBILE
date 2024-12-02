@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="app_slogan">Organize suas compras com facilidade</string>
+    <string name="app_logo">Logo do aplicativo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
